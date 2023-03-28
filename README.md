@@ -2,21 +2,26 @@
 
 ## Partecipanti Gruppo 2:
 
-## Cecchini Gioele
+Cecchini Gioele
 
-## Conte Filippo
+Conte Filippo
 
-## Gregori Diego 
+Gregori Diego 
 
-## Santi Iacopo
+Santi Iacopo
 
-##Ruoli:
+## Ruoli:
 
   CapoGruppo - Santi Iacopo
+  
   File Readme - Cecchini Gioele
+  
   Diagramma UML - Cecchini Gioele
+  
   Classe Prodotto - Conte Filippo
+  
   Classe Cliente - Santi Iacopo
+  
   Classe Negozio - Gregori Diego
 
 ## Testo
